@@ -1,0 +1,16 @@
+.footer__link-meaning {
+    color: white;
+    text-decoration: none;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 18px;
+    transition: 0.3, linear;
+
+}
+
+
+.footer__link-meaning:hover {
+    opacity: .8;
+    cursor: pointer;
+}

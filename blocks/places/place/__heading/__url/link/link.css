@@ -1,0 +1,16 @@
+.link {
+    margin: 0;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 22px;
+    font-style: normal;
+    color: white;
+    transition: 0.3, linear;
+
+}
+
+
+.link:hover {
+    opacity: .8;
+    cursor: pointer;
+}

@@ -1,0 +1,9 @@
+.photo {
+    max-width: 284px;
+    transition: 1.7s, linear;
+}
+
+
+.photo:hover {
+    transform: scale(1.2);
+}
