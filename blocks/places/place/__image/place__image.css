@@ -4,7 +4,7 @@
 
 
 
-@media screen and (max-width:769px) {
+@media screen and (max-width:1023px) {
     .place__image {
         max-width: 340px;
     }
@@ -12,7 +12,7 @@
 }
 
 
-@media screen and (max-width:321px) {
+@media screen and (max-width:767px) {
     .place__image{
         width: 320px;
         align-self: center;

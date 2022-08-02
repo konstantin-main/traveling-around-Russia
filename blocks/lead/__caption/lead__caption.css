@@ -10,7 +10,7 @@
 }
 
 
-@media screen and (max-width:321px) {
+@media screen and (max-width:767px) {
     .lead__caption {
         font-style: normal;
         font-weight: 400;

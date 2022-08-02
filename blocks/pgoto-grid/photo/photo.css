@@ -10,7 +10,7 @@
 
 
 
-@media screen and (max-width:1025px) {
+@media screen and (max-width:1279px) {
     .photo {
         max-width: none;
         width: 100%;
@@ -19,7 +19,7 @@
 }
 
 
-@media screen and (max-width:769px) {
+@media screen and (max-width:1023px) {
     .photo {
         max-width: none;
         width: 100%;
@@ -29,7 +29,7 @@
 
 
 
-@media screen and (max-width:321px) {
+@media screen and (max-width:767px) {
     .photo {
         width: 100%;
     }
