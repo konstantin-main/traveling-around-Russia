@@ -7,3 +7,14 @@
     grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
     list-style: none;
 }
+
+
+
+@media screen and (max-width:321px) {
+   .footer__links {
+    grid-template-columns: 1fr;
+    gap: 32px;
+    margin-bottom: 48px;
+   }
+    
+}

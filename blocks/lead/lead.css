@@ -6,3 +6,19 @@
     margin: 0 auto;
     margin-top: 56px;
 }
+
+
+@media screen and (max-width:769px) {
+    .lead {
+        max-width: 720px;
+    }
+    
+}
+
+
+@media  screen and (max-width: 321px) {
+    .lead {
+        max-width: 288px;
+    }
+    
+}

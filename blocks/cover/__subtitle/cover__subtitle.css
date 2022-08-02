@@ -10,3 +10,26 @@
     line-height: 22px;
     text-align: center;   
 }
+
+
+
+@media screen and (max-width:1025px) {
+    .cover__subtitle {
+        margin-bottom: 195px;
+    }
+    
+}
+
+
+
+@media screen and (max-width:321px) {
+    .cover__subtitle {
+        font-style: normal;
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 16px;
+        margin-top: 16px;
+        margin-bottom: 0;
+    }
+    
+}

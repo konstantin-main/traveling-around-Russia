@@ -8,3 +8,17 @@
     color: #FFFFFF;
     margin: 0;
 }
+
+
+
+@media screen and (max-width:321px) {
+    .author {
+        text-align: left;
+        font-style: normal;
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 14px;
+        height: 14px;
+        width: 100%;
+    }
+}

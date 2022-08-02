@@ -7,3 +7,31 @@
 .photo:hover {
     transform: scale(1.2);
 }
+
+
+
+@media screen and (max-width:1025px) {
+    .photo {
+        max-width: none;
+        width: 100%;
+    }
+    
+}
+
+
+@media screen and (max-width:769px) {
+    .photo {
+        max-width: none;
+        width: 100%;
+    }
+    
+}
+
+
+
+@media screen and (max-width:321px) {
+    .photo {
+        width: 100%;
+    }
+    
+}

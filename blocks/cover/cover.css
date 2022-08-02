@@ -10,3 +10,36 @@
     position: relative;
 
 }
+
+
+
+@media screen and (max-width:1025px) {
+    .cover {
+        max-height: 640px;
+    }
+    
+}
+
+
+
+@media screen and (max-width:769px) {
+    .cover {
+        max-width: 720px;
+        margin-top: 90px;
+        margin-bottom: 88px;
+        height: 480px;
+    }
+    
+}
+
+
+
+@media screen and (max-width:321px) {
+    .cover {
+        max-width: 288px;
+        margin-top: 66px;
+        margin-bottom: 64px;
+        height: 200px;
+    }
+    
+}

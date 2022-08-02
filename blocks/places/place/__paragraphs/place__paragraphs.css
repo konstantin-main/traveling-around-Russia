@@ -1,5 +1,6 @@
 .place__paragraphs{
-    display: flex;
-    flex-direction: column;
-    justify-content: flex-start;
+    display:grid;
+    grid-template-columns: 1fr;
+    gap: 25px;
+    
 }

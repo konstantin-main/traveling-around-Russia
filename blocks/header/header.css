@@ -3,3 +3,32 @@
     justify-content: space-between;
     margin-top: 28px;
 }
+
+
+
+
+@media screen and (max-width:1025px) {
+    .header {
+        max-width: 968px;
+    }
+    
+}
+
+
+@media screen and (max-width:769px) {
+    .header {
+        max-width: 720px;
+        margin: 0 auto;
+        padding-top: 28px;
+    }
+}
+
+
+@media screen and (max-width:321px) {
+    .header {
+        max-width: 288px;
+        margin: 0 auto;
+        padding-top: 16px;
+    }
+    
+}
