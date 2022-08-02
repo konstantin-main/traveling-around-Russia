@@ -1,0 +1,17 @@
+.list__items {
+    font-size: 12px;
+    font-weight: 700;
+    line-height: 18px;
+}
+
+
+
+@media screen and (max-width:321px) {
+    .list__items {
+        font-style: normal;
+        font-weight: 700;
+        font-size: 12px;
+        line-height: 18px;
+    }
+    
+}

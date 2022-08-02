@@ -1,0 +1,32 @@
+.page {
+    max-width: 1280px;
+    margin: 0 auto;
+    align-self: center;
+    font-family: 'Inter', sans-serif;
+}
+
+
+
+@media screen and (max-width:1025px) {
+    .page {
+        max-width: 968px;
+    }
+    
+}
+
+
+
+@media screen and (max-width:769px) {
+    .page {
+        max-width: 768px ;
+    }
+    
+}
+
+
+
+@media screen and (max-width:321px) {
+    .page {
+        max-width: 320px;
+    }    
+}

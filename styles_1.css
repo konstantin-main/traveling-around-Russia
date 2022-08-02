@@ -22,7 +22,7 @@
 }
 
 
-.links {
+.header__links {
     display: grid;
     grid-template-columns: 1fr 1fr;
     gap: 18px;
@@ -34,7 +34,9 @@
     max-width: 38px;
 }
 
-
+@media screen and (max-width:1025px) {
+    
+}
 
 
 .header__link-language {
@@ -359,6 +361,7 @@
     margin: 0;
     max-width: 465px;
     grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+    
 }
 
 
@@ -374,7 +377,7 @@
 }
 
 
-.footer__link-language {
+.footer__link-meaning {
     color: white;
     text-decoration: none;
     font-style: normal;
@@ -386,7 +389,7 @@
 }
 
 
-.footer__link-language:hover {
+.footer__link-meaning:hover {
     opacity: .8;
     cursor: pointer;
 }

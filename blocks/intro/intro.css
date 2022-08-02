@@ -1,0 +1,27 @@
+.intro {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    max-width: 984px;
+    margin: 0 auto;
+    margin-top: 114px;
+}
+
+
+
+@media screen and (max-width:769px) {
+    .intro {
+        max-width: 720px;
+        margin-top: 88px;
+    }
+    
+}
+
+
+@media screen and (max-width: 321px) {
+    .intro {
+        margin-top: 64px;
+        max-width: 288px;
+    }
+    
+}
