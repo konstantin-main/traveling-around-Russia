@@ -10,6 +10,7 @@
     font-size: 72px;
     line-height: 76px;
     z-index: 1;
+    pointer-events: none;
 }
 
 

@@ -4,6 +4,13 @@
     max-width: 1184px;
     height: 740px;
     position: absolute;
+    transition: .3s linear;
+}
+
+
+.cover__background:hover {
+    opacity: .3;
+    cursor: pointer;
 }
 
 

@@ -1,6 +1,7 @@
 .photo {
     max-width: 284px;
-    transition: 1.7s, linear;
+    transition: .1s  linear;
+    border-radius: 7px;
 }
 
 
